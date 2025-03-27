@@ -1,6 +1,10 @@
 body {
     scroll-behavior: smooth;
-    background-color: #34495e;
+    background-image: url('https://storage.googleapis.com/hadas-docker-bucket/%D7%94%D7%A8%D7%99%D7%9D%20(1).JPG');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
     font-family: sans-serif;
 }
 
